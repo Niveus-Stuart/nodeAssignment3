@@ -12,3 +12,10 @@
 {"level":"info","message":"Fetched all users"}
 {"level":"info","message":"User created: {\n  name: 'Nithin',\n  email: 'nithin@gmail.com',\n  age: 22,\n  _id: new ObjectId('67c180100af82b57c6310062'),\n  __v: 0\n}"}
 {"level":"info","message":"User updated: {\n  _id: new ObjectId('67c180100af82b57c6310062'),\n  name: 'Nithin',\n  email: 'nithin@gmail.com',\n  age: 23,\n  __v: 0\n}"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"User created: {\n  name: 'Stuart Olivera',\n  email: 'stuart.olivera@niveussolutions.com',\n  age: 30,\n  _id: new ObjectId('67c5781fee4704e0736a005d'),\n  __v: 0\n}"}
+{"level":"info","message":"User created: {\n  name: 'Shashank Hegde',\n  email: 'shashank.hegde@niveussolutions.com',\n  age: 25,\n  _id: new ObjectId('67c5781fee4704e0736a0060'),\n  __v: 0\n}"}
+{"level":"info","message":"Fetched all users"}
+{"level":"info","message":"User created: {\n  name: 'Nithin',\n  email: 'nithin@gmail.com',\n  age: 22,\n  _id: new ObjectId('67c5781fee4704e0736a0064'),\n  __v: 0\n}"}
+{"level":"info","message":"User updated: {\n  _id: new ObjectId('67c5781fee4704e0736a0064'),\n  name: 'Nithin',\n  email: 'nithin@gmail.com',\n  age: 23,\n  __v: 0\n}"}
